@@ -1,0 +1,16 @@
+name: flutter_html_as_text
+description: Display HTML as text in Flutter
+version: 1.0.0
+homepage: https://github.com/Staheos/flutter_html_as_text
+
+environment:
+  sdk: '>=3.1.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  change_app_package_name: any
